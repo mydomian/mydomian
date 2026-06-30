@@ -46,7 +46,6 @@
 | [demo.benemoysecurities.com](https://demo.benemoysecurities.com) | Share market stock sales platform |
 | [alkabaagrovet.com](https://alkabaagrovet.com) | Veterinarian products showcase |
 | [sale.alkabaagrovet.com](https://sale.alkabaagrovet.com) | Veterinarian POS & inventory management |
-
 | [educationcenterbd.com](https://educationcenterbd.com) | School Management System (SaaS-based) |
 | [dhakaprokash24.com](https://dhakaprokash24.com) | News portal |
 | df.redsmail.xyz | Attendance system with finger & face devices |
@@ -55,7 +54,6 @@
 | calipso.com | Solar calculation system |
 | palmal.redsmail.xyz | Garments sample tracking system |
 | [kazimahbob.com](https://kazimahbob.com) | Research & publication portfolio system |
-
 | [shebaone.com](https://shebaone.com) | Hospital management system |
 | [lalsobuj24.com](https://lalsobuj24.com) | News portal |
 | sns.orientcomputers.com | HRM system |
