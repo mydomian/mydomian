@@ -35,9 +35,6 @@
 
 ## 💼 Experience & Projects
 
-### 🔹 Jsk Group Ltd
-**November 2025 – Present**
-
 | Project | Description |
 |---|---|
 | [promptscripting.ai](https://promptscripting.ai) | AI scripts selling and hiring dev platform |
@@ -50,11 +47,6 @@
 | [alkabaagrovet.com](https://alkabaagrovet.com) | Veterinarian products showcase |
 | [sale.alkabaagrovet.com](https://sale.alkabaagrovet.com) | Veterinarian POS & inventory management |
 
-### 🔹 TechLab33 Ltd
-**May 2024 – October 2025**
-
-| Project | Description |
-|---|---|
 | [educationcenterbd.com](https://educationcenterbd.com) | School Management System (SaaS-based) |
 | [dhakaprokash24.com](https://dhakaprokash24.com) | News portal |
 | df.redsmail.xyz | Attendance system with finger & face devices |
@@ -64,11 +56,6 @@
 | palmal.redsmail.xyz | Garments sample tracking system |
 | [kazimahbob.com](https://kazimahbob.com) | Research & publication portfolio system |
 
-### 🔹 Wizard Software & Technology Bangladesh Ltd
-**February 2023 – April 2024**
-
-| Project | Description |
-|---|---|
 | [shebaone.com](https://shebaone.com) | Hospital management system |
 | [lalsobuj24.com](https://lalsobuj24.com) | News portal |
 | sns.orientcomputers.com | HRM system |
@@ -89,13 +76,13 @@
 ## 🎓 Education
 
 **Bachelor of Computer Science & Engineering**
-Bangladesh University, Dhaka — Department of CSE — **CGPA 3.27**
+Bangladesh University, Dhaka — Department of CSE
 
 **Higher Secondary School Certificate**
-Debidwar S.A Govt. College, Cumilla — Science — **GPA 4.40** (2014, Cumilla Board)
+Debidwar S.A Govt. College, Cumilla — Science
 
 **Secondary School Certificate**
-Debidwar R.U.P Govt. High School, Cumilla — Science — **GPA 3.94** (2012, Cumilla Board)
+Debidwar R.U.P Govt. High School, Cumilla — Science
 
 <br/>
 
@@ -105,19 +92,6 @@ Fluent in reading and writing both **Bengali** & **English**.
 
 <br/>
 
-## 🏠 Present Address
 
-C/O: Md. Mortuza Ahmed
-House 27, Road 03, Shymoli Park, Shymoli-1207
-P.O / P.S: Mohammadpur, Dist: Dhaka-1207
-
-<br/>
-
-## ✅ Declaration
-
-I hereby declare that all the statements in this CV are authentic, complete, and correct to the best of my knowledge.
-
-*Yours truly,*
-**Md. Mortuza Ahmed**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=120&section=footer" width="100%"/>
