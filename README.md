@@ -62,9 +62,7 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 <tr>
 <td width="3%" valign="top">🔹</td>
 <td width="97%">
-
-**Jsk Group Ltd** &nbsp; <img src="https://img.shields.io/badge/Nov%202025%20--%20Present-6dd5ed?style=flat-square"/>
-
+  
 | Project | Description |
 |---|---|
 | [promptscripting.ai](https://promptscripting.ai) | AI scripts selling & hiring dev platform |
@@ -85,11 +83,6 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 <tr>
 <td width="3%" valign="top">🔹</td>
 <td width="97%">
-
-**TechLab33 Ltd** &nbsp; <img src="https://img.shields.io/badge/May%202024%20--%20Oct%202025-2a5298?style=flat-square"/>
-
-| Project | Description |
-|---|---|
 | [educationcenterbd.com](https://educationcenterbd.com) | School Management System (SaaS-based) |
 | [dhakaprokash24.com](https://dhakaprokash24.com) | News portal |
 | df.redsmail.xyz | Attendance system with finger & face devices |
@@ -107,11 +100,6 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 <tr>
 <td width="3%" valign="top">🔹</td>
 <td width="97%">
-
-**Wizard Software & Technology Bangladesh Ltd** &nbsp; <img src="https://img.shields.io/badge/Feb%202023%20--%20Apr%202024-1e3c72?style=flat-square"/>
-
-| Project | Description |
-|---|---|
 | [shebaone.com](https://shebaone.com) | Hospital management system |
 | [lalsobuj24.com](https://lalsobuj24.com) | News portal |
 | sns.orientcomputers.com | HRM system |
