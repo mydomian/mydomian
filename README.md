@@ -1,52 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mortuza Ahmed</h1>
-<h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mydomian&label=Profile%20views&color=0e75b6&style=flat" alt="mydomian" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=220&section=header&text=Mortuza%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Bangladesh&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mydomian" alt="mydomian" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=mydomian&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mydomian" />
 
-<p align="left"> <a href="https://twitter.com/mortuza18178140" target="blank"><img src="https://img.shields.io/twitter/follow/mortuza18178140?logo=twitter&style=for-the-badge" alt="mortuza18178140" /></a> </p>
+<a href="https://twitter.com/mortuza18178140" target="blank"><img src="https://img.shields.io/twitter/follow/mortuza18178140?logo=twitter&style=for-the-badge&color=0e75b6" alt="mortuza18178140" /></a>
 
-- 🔭 I’m currently working on [Dhaka Prokash Online Portal](https://dhakaprokash24.com/)
+</div>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, JQuery, VueJs, NuxtJs,InertiaJs, PHP, Laravel, Mysql, MongoDb, Sqlite, PostgreSQL, Ajax, Rest Api, Websocket Programming, Git and Github, Wordpress, SEO, Adsense, Web Programming Skills, Teamwork, Team Lead, Multiple Tasking, Work On Under Pressure**
+<br/>
 
-- 👯 I’m looking to collaborate on **ERP (Enterprise Relational Planning)**
+## 👋 About Me
 
-- 🤝 I’m looking for help with **ERP (Enterprise Relational Planning)**
+- 🔭 Currently working on **[Dhaka Prokash Online Portal](https://dhakaprokash24.com/)**
+- 🌱 Currently learning **HTML, CSS, Bootstrap, JavaScript, jQuery, Vue.js, Nuxt.js, Inertia.js, PHP, Laravel, MySQL, MongoDB, SQLite, PostgreSQL, Ajax, REST APIs, WebSocket Programming, Git/GitHub, WordPress, SEO, Adsense**
+- 👯 Looking to collaborate on **ERP (Enterprise Resource Planning)**
+- 🤝 Looking for help with **ERP (Enterprise Resource Planning)**
+- 👨‍💻 All my projects: **[github.com/mydomian](https://github.com/mydomian)**
+- 📝 I write at **[healthcarespotzone.blogspot.com](https://healthcarespotzone.blogspot.com/)**
+- 💬 Ask me about **Full Stack Web Development, Team Lead & Project Delivery**
+- 📫 Reach me at **mortuza504@gmail.com**
+- ⚡ Fun fact: **I think I'm funny**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mydomian](https://github.com/mydomian)
+<br/>
 
-- 📝 I regularly write articles on [https://healthcarespotzone.blogspot.com/](https://healthcarespotzone.blogspot.com/)
+## 🌐 Connect with me
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, JQuery, VueJs, NuxtJs,InertiaJs, PHP, Laravel, Mysql, MongoDb, Sqlite, PostgreSQL, Ajax, Rest Api, Websocket Programming, Git and Github, Wordpress, SEO, Adsense, Web Programming Skills, Teamwork, Team Lead, Multiple Tasking, Work On Under Pressure**
+<div align="center">
 
-- 📫 How to reach me **mortuza504@gmail.com**
+<a href="https://dev.to/@mortuza18178140" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="35" width="45" /></a>
+<a href="https://twitter.com/mortuza18178140" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="35" width="45" /></a>
+<a href="https://linkedin.com/in/mortuza-ahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" /></a>
+<a href="https://fb.com/md.mortuza.ahmed.377737" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="45" /></a>
+<a href="https://medium.com/@mortuza18178140" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="35" width="45" /></a>
+<a href="https://www.youtube.com/c/@mortuzaahmed1741" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="45" /></a>
 
-- 📄 Know about my experiences [https://github.com/mydomian](https://github.com/mydomian)
+</div>
 
-- ⚡ Fun fact **I think i am funny**
+<br/>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@mortuza18178140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mortuza18178140" height="30" width="40" /></a>
-<a href="https://twitter.com/mortuza18178140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mortuza18178140" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mortuza-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mortuza-ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/md.mortuza.ahmed.377737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mortuza.ahmed.377737" height="30" width="40" /></a>
-<a href="https://medium.com/@mortuza18178140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mortuza18178140" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mortuzaahmed1741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mortuzaahmed1741" height="30" width="40" /></a>
-<a href="/https://github.com/mydomian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/mydomian" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,nuxtjs,php,laravel,mysql,mongodb,sqlite,postgres,redis,sass,tailwind,git,figma,xd,postman&theme=light" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mydomian&show_icons=true&locale=en&layout=compact" alt="mydomian" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mydomian&show_icons=true&locale=en" alt="mydomian" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mydomian&" alt="mydomian" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mydomian&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mydomian&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mydomian&theme=tokyonight&hide_border=true" alt="mydomian" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mydomian&theme=tokyonight&no-frame=true&row=1" alt="mydomian" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=120&section=footer" width="100%"/>
