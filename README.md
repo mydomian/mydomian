@@ -47,24 +47,6 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 ![SEO](https://img.shields.io/badge/SEO-2a5298?style=flat-square&logo=googlesearchconsole&logoColor=white)
 ![Lead](https://img.shields.io/badge/Team%20Lead-1e3c72?style=flat-square&logo=googlemeet&logoColor=white)
 ![MultiTask](https://img.shields.io/badge/Multi--tasking-2a5298?style=flat-square&logo=todoist&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💼 Work Experience
-
-</div>
-
-<table>
-<tr>
-<td width="3%" valign="top">🔹</td>
-<td width="97%">
-  
-| Project | Description |
-|---|---|
 | [promptscripting.ai](https://promptscripting.ai) | AI scripts selling & hiring dev platform |
 | [foodvally.com](https://foodvally.com) | Restaurant management: POS, inventory, employee, attendance |
 | [sarahospitals.com](https://sarahospitals.com) | Doctor appointment booking system |
@@ -74,15 +56,6 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 | [demo.benemoysecurities.com](https://demo.benemoysecurities.com) | Share market stock sales platform |
 | [alkabaagrovet.com](https://alkabaagrovet.com) | Veterinarian products showcase |
 | [sale.alkabaagrovet.com](https://sale.alkabaagrovet.com) | Veterinarian POS & inventory management |
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="3%" valign="top">🔹</td>
-<td width="97%">
 | [educationcenterbd.com](https://educationcenterbd.com) | School Management System (SaaS-based) |
 | [dhakaprokash24.com](https://dhakaprokash24.com) | News portal |
 | df.redsmail.xyz | Attendance system with finger & face devices |
@@ -91,15 +64,6 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 | calipso.com | Solar calculation system |
 | palmal.redsmail.xyz | Garments sample tracking system |
 | [kazimahbob.com](https://kazimahbob.com) | Research & publication portfolio system |
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="3%" valign="top">🔹</td>
-<td width="97%">
 | [shebaone.com](https://shebaone.com) | Hospital management system |
 | [lalsobuj24.com](https://lalsobuj24.com) | News portal |
 | sns.orientcomputers.com | HRM system |
@@ -112,10 +76,12 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 | [sepiabd.com](https://sepiabd.com) | Ecommerce |
 | Gi Next: Crypto Trading Software | Investment management backend + API |
 | 15+ website customizations | Various client projects |
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
+
+
+
 
 <div align="center">
 
@@ -132,10 +98,10 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 </div>
 
 <table align="center">
-<tr><th>Degree</th><th>Institution</th><th>Score</th><th>Year</th></tr>
-<tr><td>B.Sc. in Computer Science & Engineering</td><td>Bangladesh University, Dhaka</td><td>CGPA 3.27</td><td>—</td></tr>
-<tr><td>Higher Secondary Certificate (Science)</td><td>Debidwar S.A Govt. College, Cumilla</td><td>GPA 4.40</td><td>2014</td></tr>
-<tr><td>Secondary School Certificate (Science)</td><td>Debidwar R.U.P Govt. High School, Cumilla</td><td>GPA 3.94</td><td>2012</td></tr>
+<tr><th>Degree</th><th>Institution</th></tr>
+<tr><td>B.Sc. in Computer Science & Engineering</td><td>Bangladesh University, Dhaka</td></tr>
+<tr><td>Higher Secondary Certificate (Science)</td><td>Debidwar S.A Govt. College, Cumilla</td></tr>
+<tr><td>Secondary School Certificate (Science)</td><td>Debidwar R.U.P Govt. High School, Cumilla</td></tr>
 </table>
 
 <br/>
