@@ -1,53 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6dd5ed&height=230&section=header&text=MD.%20MORTUZA%20AHMED&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%2F%20Laravel%20%2F%20PHP&descAlignY=52&descSize=16&fontFamily=arial" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=MD.%20Mortuza%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Bangladesh&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
+📞 01943006504, 01643062797 &nbsp;|&nbsp; ✉️ mortuza504@gmail.com &nbsp;|&nbsp; 📍 Mohammadpur, Dhaka-1207
 
-[![Phone](https://img.shields.io/badge/-01943006504-1e3c72?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01943006504)
-[![Email](https://img.shields.io/badge/-mortuza504%40gmail.com-2a5298?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortuza504@gmail.com)
-[![GitHub](https://img.shields.io/badge/-mydomian-6dd5ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mydomian)
-[![Location](https://img.shields.io/badge/-Dhaka%2C%20Bangladesh-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-mortuza504%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortuza504@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mydomian-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mydomian)
 
 </div>
 
 <br/>
 
-<div align="center">
+## 🎯 Career Objective
 
-### 🎯 Career Objective
-
-</div>
-
-<table>
-<tr><td>
-
-To be able to work for an <b>encouraging and stable company</b> that will assist me in developing, improving, and obtaining the necessary skills in order to become the best developer possible.
-
-</td></tr>
-</table>
+> To be able to work for an encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best developer possible.
 
 <br/>
 
+## 🛠️ Skills
+
 <div align="center">
 
-### 🛠️ Technical Skills
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,php,laravel,git,github&theme=light" />
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,php,laravel,git,github&theme=light" /><br/><br/>
+</div>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1e3c72?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-2a5298?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React.js-1e3c72?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2a5298?style=flat-square&logo=nextdotjs&logoColor=white)
-![Inertia](https://img.shields.io/badge/Inertia.js-1e3c72?style=flat-square&logo=inertia&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-2a5298?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1e3c72?style=flat-square&logo=laravel&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20API-2a5298?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-1e3c72?style=flat-square&logo=git&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-2a5298?style=flat-square&logo=googlesearchconsole&logoColor=white)
-![Lead](https://img.shields.io/badge/Team%20Lead-1e3c72?style=flat-square&logo=googlemeet&logoColor=white)
-![MultiTask](https://img.shields.io/badge/Multi--tasking-2a5298?style=flat-square&logo=todoist&logoColor=white)
-| [promptscripting.ai](https://promptscripting.ai) | AI scripts selling & hiring dev platform |
+<div align="center">
+
+`Bootstrap CSS` `Tailwind CSS` `React.js` `Next.js` `Inertia.js` `PHP` `Laravel` `REST API` `Git & GitHub` `SEO` `Team Lead` `Multi-tasking` `Works Well Under Pressure`
+
+</div>
+
+<br/>
+
+## 💼 Experience & Projects
+
+### 🔹 Jsk Group Ltd
+**November 2025 – Present**
+
+| Project | Description |
+|---|---|
+| [promptscripting.ai](https://promptscripting.ai) | AI scripts selling and hiring dev platform |
 | [foodvally.com](https://foodvally.com) | Restaurant management: POS, inventory, employee, attendance |
 | [sarahospitals.com](https://sarahospitals.com) | Doctor appointment booking system |
 | [sarafoundationbd.com](https://sarafoundationbd.com) | Non-profit foundation website |
@@ -56,6 +49,12 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 | [demo.benemoysecurities.com](https://demo.benemoysecurities.com) | Share market stock sales platform |
 | [alkabaagrovet.com](https://alkabaagrovet.com) | Veterinarian products showcase |
 | [sale.alkabaagrovet.com](https://sale.alkabaagrovet.com) | Veterinarian POS & inventory management |
+
+### 🔹 TechLab33 Ltd
+**May 2024 – October 2025**
+
+| Project | Description |
+|---|---|
 | [educationcenterbd.com](https://educationcenterbd.com) | School Management System (SaaS-based) |
 | [dhakaprokash24.com](https://dhakaprokash24.com) | News portal |
 | df.redsmail.xyz | Attendance system with finger & face devices |
@@ -64,6 +63,12 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 | calipso.com | Solar calculation system |
 | palmal.redsmail.xyz | Garments sample tracking system |
 | [kazimahbob.com](https://kazimahbob.com) | Research & publication portfolio system |
+
+### 🔹 Wizard Software & Technology Bangladesh Ltd
+**February 2023 – April 2024**
+
+| Project | Description |
+|---|---|
 | [shebaone.com](https://shebaone.com) | Hospital management system |
 | [lalsobuj24.com](https://lalsobuj24.com) | News portal |
 | sns.orientcomputers.com | HRM system |
@@ -76,64 +81,43 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 | [sepiabd.com](https://sepiabd.com) | Ecommerce |
 | Gi Next: Crypto Trading Software | Investment management backend + API |
 | 15+ website customizations | Various client projects |
-</div>
+
+🔗 Full project list: **[github.com/mydomian](https://github.com/mydomian)**
 
 <br/>
 
+## 🎓 Education
 
+**Bachelor of Computer Science & Engineering**
+Bangladesh University, Dhaka — Department of CSE — **CGPA 3.27**
 
+**Higher Secondary School Certificate**
+Debidwar S.A Govt. College, Cumilla — Science — **GPA 4.40** (2014, Cumilla Board)
 
-<div align="center">
-
-🔗 **Full project history:** [github.com/mydomian](https://github.com/mydomian)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🎓 Education
-
-</div>
-
-<table align="center">
-<tr><th>Degree</th><th>Institution</th></tr>
-<tr><td>B.Sc. in Computer Science & Engineering</td><td>Bangladesh University, Dhaka</td></tr>
-<tr><td>Higher Secondary Certificate (Science)</td><td>Debidwar S.A Govt. College, Cumilla</td></tr>
-<tr><td>Secondary School Certificate (Science)</td><td>Debidwar R.U.P Govt. High School, Cumilla</td></tr>
-</table>
+**Secondary School Certificate**
+Debidwar R.U.P Govt. High School, Cumilla — Science — **GPA 3.94** (2012, Cumilla Board)
 
 <br/>
 
-<div align="center">
+## 🌐 Language Proficiency
 
-### 🌐 Language Proficiency
-
-Fluent in reading and writing both **Bengali** 🇧🇩 & **English** 🇬🇧
+Fluent in reading and writing both **Bengali** & **English**.
 
 <br/>
 
-### 🏠 Present Address
+## 🏠 Present Address
 
-C/O Md. Mortuza Ahmed — House 27, Road 03, Shymoli Park, Shymoli-1207
-Mohammadpur, Dhaka-1207, Bangladesh
-
-</div>
+C/O: Md. Mortuza Ahmed
+House 27, Road 03, Shymoli Park, Shymoli-1207
+P.O / P.S: Mohammadpur, Dist: Dhaka-1207
 
 <br/>
 
-<table align="center">
-<tr><td>
+## ✅ Declaration
 
-✅ I hereby declare that all the statements in this CV are authentic, complete, and correct to the best of my knowledge.
+I hereby declare that all the statements in this CV are authentic, complete, and correct to the best of my knowledge.
 
-<div align="right">
-<i>Yours truly,</i><br/>
-<b>Md. Mortuza Ahmed</b>
-</div>
+*Yours truly,*
+**Md. Mortuza Ahmed**
 
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,50:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=120&section=footer" width="100%"/>
