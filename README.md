@@ -1,65 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=220&section=header&text=Mortuza%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Bangladesh&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=MD.%20Mortuza%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Bangladesh&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=mydomian&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mydomian" />
+📞 01943006504, 01643062797 &nbsp;|&nbsp; ✉️ mortuza504@gmail.com &nbsp;|&nbsp; 📍 Mohammadpur, Dhaka-1207
 
-<a href="https://twitter.com/mortuza18178140" target="blank"><img src="https://img.shields.io/twitter/follow/mortuza18178140?logo=twitter&style=for-the-badge&color=0e75b6" alt="mortuza18178140" /></a>
+[![Email](https://img.shields.io/badge/Email-mortuza504%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortuza504@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mydomian-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mydomian)
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 🎯 Career Objective
 
-- 🔭 Currently working on **[Dhaka Prokash Online Portal](https://dhakaprokash24.com/)**
-- 🌱 Currently learning **HTML, CSS, Bootstrap, JavaScript, jQuery, Vue.js, Nuxt.js, Inertia.js, PHP, Laravel, MySQL, MongoDB, SQLite, PostgreSQL, Ajax, REST APIs, WebSocket Programming, Git/GitHub, WordPress, SEO, Adsense**
-- 👯 Looking to collaborate on **ERP (Enterprise Resource Planning)**
-- 🤝 Looking for help with **ERP (Enterprise Resource Planning)**
-- 👨‍💻 All my projects: **[github.com/mydomian](https://github.com/mydomian)**
-- 📝 I write at **[healthcarespotzone.blogspot.com](https://healthcarespotzone.blogspot.com/)**
-- 💬 Ask me about **Full Stack Web Development, Team Lead & Project Delivery**
-- 📫 Reach me at **mortuza504@gmail.com**
-- ⚡ Fun fact: **I think I'm funny**
+> To be able to work for an encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best developer possible.
 
 <br/>
 
-## 🌐 Connect with me
+## 🛠️ Skills
 
 <div align="center">
 
-<a href="https://dev.to/@mortuza18178140" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="35" width="45" /></a>
-<a href="https://twitter.com/mortuza18178140" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="35" width="45" /></a>
-<a href="https://linkedin.com/in/mortuza-ahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" /></a>
-<a href="https://fb.com/md.mortuza.ahmed.377737" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="45" /></a>
-<a href="https://medium.com/@mortuza18178140" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="35" width="45" /></a>
-<a href="https://www.youtube.com/c/@mortuzaahmed1741" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="45" /></a>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,php,laravel,git,github&theme=light" />
+
+</div>
+
+<div align="center">
+
+`Bootstrap CSS` `Tailwind CSS` `React.js` `Next.js` `Inertia.js` `PHP` `Laravel` `REST API` `Git & GitHub` `SEO` `Team Lead` `Multi-tasking` `Works Well Under Pressure`
 
 </div>
 
 <br/>
 
-## 🛠️ Languages and Tools
+## 💼 Experience & Projects
 
-<div align="center">
+### 🔹 Jsk Group Ltd
+**November 2025 – Present**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,nuxtjs,php,laravel,mysql,mongodb,sqlite,postgres,redis,sass,tailwind,git,figma,xd,postman&theme=light" />
+| Project | Description |
+|---|---|
+| [promptscripting.ai](https://promptscripting.ai) | AI scripts selling and hiring dev platform |
+| [foodvally.com](https://foodvally.com) | Restaurant management: POS, inventory, employee, attendance |
+| [sarahospitals.com](https://sarahospitals.com) | Doctor appointment booking system |
+| [sarafoundationbd.com](https://sarafoundationbd.com) | Non-profit foundation website |
+| [crm.sarabd.com](https://crm.sarabd.com) | Employee, attendance, task, material & complaint management |
+| [sarahealthbd.com](https://sarahealthbd.com) | Doctor appointment booking system |
+| [demo.benemoysecurities.com](https://demo.benemoysecurities.com) | Share market stock sales platform |
+| [alkabaagrovet.com](https://alkabaagrovet.com) | Veterinarian products showcase |
+| [sale.alkabaagrovet.com](https://sale.alkabaagrovet.com) | Veterinarian POS & inventory management |
 
-</div>
+### 🔹 TechLab33 Ltd
+**May 2024 – October 2025**
+
+| Project | Description |
+|---|---|
+| [educationcenterbd.com](https://educationcenterbd.com) | School Management System (SaaS-based) |
+| [dhakaprokash24.com](https://dhakaprokash24.com) | News portal |
+| df.redsmail.xyz | Attendance system with finger & face devices |
+| [sportsspell.com](https://sportsspell.com) | Sports news website |
+| [kaarigor.com](https://kaarigor.com) | Single-vendor ecommerce |
+| calipso.com | Solar calculation system |
+| palmal.redsmail.xyz | Garments sample tracking system |
+| [kazimahbob.com](https://kazimahbob.com) | Research & publication portfolio system |
+
+### 🔹 Wizard Software & Technology Bangladesh Ltd
+**February 2023 – April 2024**
+
+| Project | Description |
+|---|---|
+| [shebaone.com](https://shebaone.com) | Hospital management system |
+| [lalsobuj24.com](https://lalsobuj24.com) | News portal |
+| sns.orientcomputers.com | HRM system |
+| [constructionexpress.com.bd](https://constructionexpress.com.bd) | Railway construction portfolio system |
+| shopanbd | Ecommerce backend + apps API |
+| [btutors.net](https://btutors.net) | Tutoring job site |
+| happy-life-clinic | Medical diagnostics center |
+| [rajdhanistudio.com](https://rajdhanistudio.com) | Architecture portfolio system |
+| [luvmelo.com](https://luvmelo.com) | Employee + client destination management with map |
+| [sepiabd.com](https://sepiabd.com) | Ecommerce |
+| Gi Next: Crypto Trading Software | Investment management backend + API |
+| 15+ website customizations | Various client projects |
+
+🔗 Full project list: **[github.com/mydomian](https://github.com/mydomian)**
 
 <br/>
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-<div align="center">
+**Bachelor of Computer Science & Engineering**
+Bangladesh University, Dhaka — Department of CSE — **CGPA 3.27**
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mydomian&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mydomian&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+**Higher Secondary School Certificate**
+Debidwar S.A Govt. College, Cumilla — Science — **GPA 4.40** (2014, Cumilla Board)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mydomian&theme=tokyonight&hide_border=true" alt="mydomian" />
+**Secondary School Certificate**
+Debidwar R.U.P Govt. High School, Cumilla — Science — **GPA 3.94** (2012, Cumilla Board)
 
-<img src="https://github-profile-trophy.vercel.app/?username=mydomian&theme=tokyonight&no-frame=true&row=1" alt="mydomian" />
+<br/>
 
-</div>
+## 🌐 Language Proficiency
+
+Fluent in reading and writing both **Bengali** & **English**.
+
+<br/>
+
+## 🏠 Present Address
+
+C/O: Md. Mortuza Ahmed
+House 27, Road 03, Shymoli Park, Shymoli-1207
+P.O / P.S: Mohammadpur, Dist: Dhaka-1207
+
+<br/>
+
+## ✅ Declaration
+
+I hereby declare that all the statements in this CV are authentic, complete, and correct to the best of my knowledge.
+
+*Yours truly,*
+**Md. Mortuza Ahmed**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=120&section=footer" width="100%"/>
