@@ -104,7 +104,7 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 
 <div align="center">
 
-🔗 **Full project history:** [github.com/mydomian](https://github.com/mydomian)
+🔗 **Full project history:** [github.com/mydomian](https://github.com/mortuza-ahmed)
 
 </div>
 
