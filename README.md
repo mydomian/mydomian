@@ -6,7 +6,7 @@
 
 [![Phone](https://img.shields.io/badge/-01943006504-1e3c72?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01943006504)
 [![Email](https://img.shields.io/badge/-mortuza504%40gmail.com-2a5298?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortuza504@gmail.com)
-[![GitHub](https://img.shields.io/badge/-mortuza-ahmed-6dd5ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mortuza-ahmed)
+[![GitHub](https://img.shields.io/badge/-mortuza--ahmed-6dd5ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mortuza-ahmed)
 [![Location](https://img.shields.io/badge/-Dhaka%2C%20Bangladesh-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
